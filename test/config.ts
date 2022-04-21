@@ -1,2 +1,5 @@
 export const TURBO_ADMIN_ADDRESS = "0x123";
-
+export const TURBO_BOOSTER_ADDRESS =
+  "0xf6c7f4a90b10c9eaaf2a6676ce81fe8673453e72";
+export const TURBO_MASTER_ADDRESS =
+  "0xf2e513d3b4171bb115cb9ffc45555217fbbbd00c";

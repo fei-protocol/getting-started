@@ -3,6 +3,12 @@ import { ethers } from "hardhat";
 import { TURBO_ADMIN_ADDRESS } from './config';
 import { getImpersonatedSigner } from "./utils";
 
+// Could I just do this with git submodules?
+// Probably, don't really expect people to modify source code. 
+
+
+// Need the contracts now
+
 describe("Yield generating strategies with Turbo", function () {
   before(async () => {
     // Setup mainnet state/contracts that will need
